@@ -279,7 +279,7 @@ By addressing the key drivers of attrition identified in this dashboard, organiz
 
 ## 📸 Screenshots / Demos
 
-![HR Analytics Dashboard]([images/hr_analytics_dashboard.png](https://github.com/OM-MISHRA1012/HR-Analytics-Dashboard/blob/main/HR%20Analytics%20Dashboard.png))
+![Dashboard Preview](https://github.com/OM-MISHRA1012/HR-Analytics-Dashboard/blob/main/HR%20Analytics%20Dashboard.png)
 
 ---
 
